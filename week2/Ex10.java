@@ -1,4 +1,6 @@
-import java.util.*;
+package ch2;
+
+import java.util.Scanner;
 
 public class Ex10 {
     static double dist(double x1, double y1, double x2, double y2) {

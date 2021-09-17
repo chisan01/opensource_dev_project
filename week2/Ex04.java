@@ -1,4 +1,6 @@
-import java.util.*;
+package ch2;
+
+import java.util.Scanner;
 
 public class Ex04 {
     public static void main(String[] args) {
@@ -21,7 +23,7 @@ public class Ex04 {
         } else {
             if (n1 < n3) {
                 ret = n1;
-            } else if (n3 < n2) {
+            } else if (n2 < n3) {
                 ret = n3;
             } else {
                 ret = n2;

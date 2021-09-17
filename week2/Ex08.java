@@ -1,4 +1,6 @@
-import java.util.*;
+package ch2;
+
+import java.util.Scanner;
 
 public class Ex08 {
     static boolean collapse(int x1, int y1, int x2, int y2) {

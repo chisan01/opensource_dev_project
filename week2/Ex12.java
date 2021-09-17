@@ -1,5 +1,6 @@
-import java.util.*;
-import java.util.function.ToIntFunction;
+package ch2;
+
+import java.util.Scanner;
 
 public class Ex12 {
     public static void main(String[] args) {

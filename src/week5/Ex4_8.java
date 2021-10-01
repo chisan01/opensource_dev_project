@@ -1,6 +1,6 @@
 package week5;
 
-public class Ex_4_8 {
+public class Ex4_8 {
     static void replaceSpace(char a[]) {
         for(int i=0; i<a.length; i++)
             if(a[i]==' ')

@@ -9,7 +9,7 @@ class CurrencyConverter {
     public static void setRate(double r) { rate = r; }
 }
 
-public class Ex_4_12 {
+public class Ex4_12 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("환율(1달러)>> ");

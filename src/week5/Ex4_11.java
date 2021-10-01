@@ -6,7 +6,7 @@ class Calc {
     public static int min(int a, int b) { return a<b?a:b; }
 }
 
-public class Ex_4_11 {
+public class Ex4_11 {
     public static void main(String[] args) {
         System.out.println(Calc.abs(-5));
         System.out.println(Calc.max(10,8));

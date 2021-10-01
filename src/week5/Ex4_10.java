@@ -6,7 +6,7 @@ class Sample {
     int c;
 }
 
-public class Ex_4_10 {
+public class Ex4_10 {
     public static void main(String[] args) {
         Sample aClass = new Sample();
         aClass.a = 10;
